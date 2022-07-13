@@ -12,3 +12,16 @@ The syntax for any Math property is : Math.property.
 
 JavaScript provides 8 mathematical constants that can be accessed as Math properties:
 
+# Math Methods
+The syntax for Math any methods is : Math.method(number)
+
+## Number to Integer
+There are 4 common methods to round a number to an integer:
+
+Math.round(x)	Returns x rounded to its nearest integer
+Math.ceil(x)	Returns x rounded up to its nearest integer
+Math.floor(x)	Returns x rounded down to its nearest integer
+Math.trunc(x)	Returns the integer part of x (new in ES6)
+## Math.round()
+Math.round(x) returns the nearest integer:
+
