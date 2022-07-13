@@ -41,4 +41,8 @@
 
 
 // Math.pow()
-Math.pow(8, 2);
+// Math.pow(8, 2);
+
+
+// Math.sqrt()
+Math.sqrt(64);

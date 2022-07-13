@@ -40,3 +40,6 @@ Math.sign(x) returns if x is negative, null or positive:
 ## Math.pow()
 Math.pow(x, y) returns the value of x to the power of y:
 
+## Math.sqrt()
+Math.sqrt(x) returns the square root of x:
+
