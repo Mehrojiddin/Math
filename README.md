@@ -37,4 +37,6 @@ Math.trunc(x) returns the integer part of x:
 ## Math.sign()
 Math.sign(x) returns if x is negative, null or positive:
 
+## Math.pow()
+Math.pow(x, y) returns the value of x to the power of y:
 

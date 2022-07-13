@@ -35,6 +35,10 @@
 // Math.trunc(-4.2);
 
 // Math.sign()
-Math.sign(-4);
-Math.sign(0);
-Math.sign(4);
+// Math.sign(-4);
+// Math.sign(0);
+// Math.sign(4);
+
+
+// Math.pow()
+Math.pow(8, 2);
