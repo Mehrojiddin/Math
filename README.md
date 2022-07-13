@@ -25,3 +25,6 @@ Math.trunc(x)	Returns the integer part of x (new in ES6)
 ## Math.round()
 Math.round(x) returns the nearest integer:
 
+## Math.ceil()
+Math.ceil(x) returns the value of x rounded up to its nearest integer:
+
