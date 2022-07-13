@@ -49,4 +49,7 @@
 
 
 // Math.abs()
-Math.abs(-4.7);
+// Math.abs(-4.7);
+
+// Math.sin()
+Math.sin(90 * Math.PI / 180);     // returns 1 (the sine of 90 degrees)

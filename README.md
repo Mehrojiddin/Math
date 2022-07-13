@@ -46,3 +46,10 @@ Math.sqrt(x) returns the square root of x:
 ## Math.abs()
 Math.abs(x) returns the absolute (positive) value of x:
 
+## Math.sin()
+Math.sin(x) returns the sine (a value between -1 and 1) of the angle x (given in radians).
+
+If you want to use degrees instead of radians, you have to convert degrees to radians:
+
+Angle in radians = Angle in degrees x PI / 180.
+
