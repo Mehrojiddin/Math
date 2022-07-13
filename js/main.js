@@ -28,8 +28,13 @@
 // Math.floor(-4.2);
 
 // Math.trunc()
-Math.trunc(4.9);
-Math.trunc(4.7);
-Math.trunc(4.4);
-Math.trunc(4.2);
-Math.trunc(-4.2);
+// Math.trunc(4.9);
+// Math.trunc(4.7);
+// Math.trunc(4.4);
+// Math.trunc(4.2);
+// Math.trunc(-4.2);
+
+// Math.sign()
+Math.sign(-4);
+Math.sign(0);
+Math.sign(4);
