@@ -45,4 +45,8 @@
 
 
 // Math.sqrt()
-Math.sqrt(64);
+// Math.sqrt(64);
+
+
+// Math.abs()
+Math.abs(-4.7);

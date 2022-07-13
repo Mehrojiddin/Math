@@ -43,3 +43,6 @@ Math.pow(x, y) returns the value of x to the power of y:
 ## Math.sqrt()
 Math.sqrt(x) returns the square root of x:
 
+## Math.abs()
+Math.abs(x) returns the absolute (positive) value of x:
+
