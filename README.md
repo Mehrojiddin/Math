@@ -53,3 +53,18 @@ If you want to use degrees instead of radians, you have to convert degrees to ra
 
 Angle in radians = Angle in degrees x PI / 180.
 
+
+## Math.cos()
+Math.cos(x) returns the cosine (a value between -1 and 1) of the angle x (given in radians).
+
+If you want to use degrees instead of radians, you have to convert degrees to radians:
+
+Angle in radians = Angle in degrees x PI / 180.
+
+
+## Math.min() and Math.max()
+Math.min() and Math.max() can be used to find the lowest or highest value in a list of arguments:
+
+
+## Math.random()
+Math.random() returns a random number between 0 (inclusive), and 1 (exclusive):

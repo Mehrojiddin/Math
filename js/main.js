@@ -52,4 +52,16 @@
 // Math.abs(-4.7);
 
 // Math.sin()
-Math.sin(90 * Math.PI / 180);     // returns 1 (the sine of 90 degrees)
+// Math.sin(90 * Math.PI / 180);     // returns 1 (the sine of 90 degrees)
+
+
+
+// Math.cos()
+// Math.cos(0 * Math.PI / 180);     // returns 1 (the cos of 0 degrees)
+
+
+
+// Math.min() and Math.max()
+// Math.min(0, 150, 30, 20, -8, -200);
+
+Math.random();
