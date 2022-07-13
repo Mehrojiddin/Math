@@ -28,3 +28,6 @@ Math.round(x) returns the nearest integer:
 ## Math.ceil()
 Math.ceil(x) returns the value of x rounded up to its nearest integer:
 
+## Math.floor()
+Math.floor(x) returns the value of x rounded down to its nearest integer:
+
